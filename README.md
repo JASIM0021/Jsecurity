@@ -37,8 +37,12 @@ The project relies on the following dependencies:
 - **yup** (^1.1.1): A JavaScript schema builder for value parsing and validation.
 
 ## Server Details
-
+### <a href='https://github.com/JASIM0021/Jsecurity_Server'>Fontend</a>
 The project includes a server component.
+
+##Backend Details
+ ### <a href='https://github.com/JASIM0021/Jsecurity_Backend'>Fontend</a>
+The project includes Whole backend Mobile Application + Web based Server Application 
 
 
 In the absence of server information, it's important to note that the frontend dependencies mentioned above primarily focus on the React Native mobile application. The server dependencies may differ based on your backend implementation.
