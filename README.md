@@ -41,7 +41,7 @@ The project relies on the following dependencies:
 The project includes a server component.
 
 ##Backend Details
- ### <a href='https://github.com/JASIM0021/Jsecurity_Backend'>Fontend</a>
+### <a href='https://github.com/JASIM0021/Jsecurity_Backend'>Backend</a>
 The project includes Whole backend Mobile Application + Web based Server Application 
 
 
